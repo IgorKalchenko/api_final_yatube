@@ -1,6 +1,6 @@
 # api_yatube
 
-REST API для социальной сети Yatube
+REST API для социальной сети [Yatube](https://github.com/IgorKalchenko/Social-network)
 
 ## Как запустить проект:
 
